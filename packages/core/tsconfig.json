@@ -1,0 +1,13 @@
+{
+    "extends": "../../tsconfig",
+    "compilerOptions": {
+        "lib": ["es6", "dom"],
+        "sourceMap": true,
+        "jsx": "react",
+        "skipLibCheck": true,
+        "noEmit": false,
+        "rootDir": "./src",
+        "outDir": "./lib",
+        "declaration": true
+    }
+}

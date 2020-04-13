@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "module": "esnext",
+      "target": "es5",
+      "lib": ["es6", "dom"],
+      "jsx": "preserve",
+      "moduleResolution": "node",
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "noEmit": false,
+      "experimentalDecorators": true,
+      "baseUrl": "./",
+      "allowSyntheticDefaultImports": true,
+      "noErrorTruncation": true,
+      "paths": {
+        "@starcraft-ui/core": ["./packages/core/src"],
+        "@starcraft-ui/core/*": ["./packages/core/src/*"]
+      }
+    },
+    "exclude": ["**/build/", "**/lib/", "node_modules"]
+}

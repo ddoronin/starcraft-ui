@@ -1,0 +1,17 @@
+{
+  "name": "starcraft-ui",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:ddoronin/starcraft-ui.git",
+  "author": "<doronindm@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "lerna run --parallel start"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
