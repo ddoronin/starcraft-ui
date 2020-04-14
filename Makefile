@@ -1,4 +1,4 @@
-setup:
+install:
 	lerna bootstrap
 run:
 	yarn workspace @starcraft-ui/core tsc:watch &\
