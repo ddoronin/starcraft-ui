@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/startcraft-ui/static/css/main.b1c0e413.chunk.css",
+    "main.js": "/startcraft-ui/static/js/main.0b3a4361.chunk.js",
+    "main.js.map": "/startcraft-ui/static/js/main.0b3a4361.chunk.js.map",
+    "runtime-main.js": "/startcraft-ui/static/js/runtime-main.e90a6423.js",
+    "runtime-main.js.map": "/startcraft-ui/static/js/runtime-main.e90a6423.js.map",
+    "static/js/2.bdac2cac.chunk.js": "/startcraft-ui/static/js/2.bdac2cac.chunk.js",
+    "static/js/2.bdac2cac.chunk.js.map": "/startcraft-ui/static/js/2.bdac2cac.chunk.js.map",
+    "index.html": "/startcraft-ui/index.html",
+    "precache-manifest.fe478a07b6f2810836d171f518ba7a63.js": "/startcraft-ui/precache-manifest.fe478a07b6f2810836d171f518ba7a63.js",
+    "service-worker.js": "/startcraft-ui/service-worker.js",
+    "static/css/main.b1c0e413.chunk.css.map": "/startcraft-ui/static/css/main.b1c0e413.chunk.css.map",
+    "static/js/2.bdac2cac.chunk.js.LICENSE.txt": "/startcraft-ui/static/js/2.bdac2cac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90a6423.js",
+    "static/js/2.bdac2cac.chunk.js",
+    "static/css/main.b1c0e413.chunk.css",
+    "static/js/main.0b3a4361.chunk.js"
+  ]
+}
