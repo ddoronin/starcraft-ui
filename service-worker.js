@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starcraft-ui/precache-manifest.26bbfb9f57e6e1f2cba8a677adaf9c8c.js"
+  "/starcraft-ui/precache-manifest.b8c1ec2b1837ffeaa76a288e49fd6a03.js"
 );
 
 self.addEventListener('message', (event) => {

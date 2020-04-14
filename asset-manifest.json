@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starcraft-ui/static/css/main.b1c0e413.chunk.css",
-    "main.js": "/starcraft-ui/static/js/main.0b3a4361.chunk.js",
-    "main.js.map": "/starcraft-ui/static/js/main.0b3a4361.chunk.js.map",
+    "main.js": "/starcraft-ui/static/js/main.064319f9.chunk.js",
+    "main.js.map": "/starcraft-ui/static/js/main.064319f9.chunk.js.map",
     "runtime-main.js": "/starcraft-ui/static/js/runtime-main.cf9b3cc3.js",
     "runtime-main.js.map": "/starcraft-ui/static/js/runtime-main.cf9b3cc3.js.map",
     "static/js/2.bdac2cac.chunk.js": "/starcraft-ui/static/js/2.bdac2cac.chunk.js",
     "static/js/2.bdac2cac.chunk.js.map": "/starcraft-ui/static/js/2.bdac2cac.chunk.js.map",
     "index.html": "/starcraft-ui/index.html",
-    "precache-manifest.26bbfb9f57e6e1f2cba8a677adaf9c8c.js": "/starcraft-ui/precache-manifest.26bbfb9f57e6e1f2cba8a677adaf9c8c.js",
+    "precache-manifest.b8c1ec2b1837ffeaa76a288e49fd6a03.js": "/starcraft-ui/precache-manifest.b8c1ec2b1837ffeaa76a288e49fd6a03.js",
     "service-worker.js": "/starcraft-ui/service-worker.js",
     "static/css/main.b1c0e413.chunk.css.map": "/starcraft-ui/static/css/main.b1c0e413.chunk.css.map",
     "static/js/2.bdac2cac.chunk.js.LICENSE.txt": "/starcraft-ui/static/js/2.bdac2cac.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cf9b3cc3.js",
     "static/js/2.bdac2cac.chunk.js",
     "static/css/main.b1c0e413.chunk.css",
-    "static/js/main.0b3a4361.chunk.js"
+    "static/js/main.064319f9.chunk.js"
   ]
 }
